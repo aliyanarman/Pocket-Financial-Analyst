@@ -2,7 +2,7 @@
 
 **Your pocket financial analyst.**
 
-[Try it now →](https://pocketstar.lovable.app/)
+[Try it now →](https://alightpr.lovable.app/)
 
 
 
