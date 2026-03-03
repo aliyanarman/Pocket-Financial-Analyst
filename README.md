@@ -11,7 +11,7 @@
 ## Purpose
 
 Bloomberg Terminal costs about $25,000 a year. PitchBook is about $30,000.
-A decent advisor is $200 an hour. None of these have the multi-layered intelligence that Alight has. Alight is a financial analyst available anywhere, anytime.
+A decent advisor is $200 an hour. None of these have the multi-layered intelligence that alight has. Alight is a financial analyst available anywhere, anytime.
 ---
 
 ## How It Works
