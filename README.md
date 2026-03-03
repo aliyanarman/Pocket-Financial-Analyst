@@ -8,29 +8,17 @@
 
 ---
 
-## The Problem
+## Purpose
 
-You’re in a meeting. Someone’s talking IRR, MOIC, EBITDA multiples. You nod. Inside, you’re doing math on your feet, trying not to sound clueless.
-
-Or you run multiple companies. You don’t have time to open Excel, pull comps across industries and countries, adjust for context, build forecasts, and double-check formulas just to answer one question: is this deal good or garbage?
-
-Alight gives you institutional grade analysis in seconds. It researches comparable transactions, cites real deals , discusses market risks (taxes, currency volatility), and writes in the language your investors expect. All of that under a minute. 
-
-
+Bloomberg Terminal costs about $25,000 a year. PitchBook is about $30,000.
+A decent advisor is $200 an hour. None of these have the multi-layered intelligence that Alight has. Alight is a financial analyst available anywhere, anytime.
 ---
 
 ## How It Works
 
-Pick an industry. Pick a country. Enter your numbers. Hit calculate.
+You choose from one of six core models designed according to the needs of modern finance / private equity / investment banking. Depending on the deal you are exploring, you choose a model, select the market and country, and just punch in the numbers you have on hand.
 
-The math happens instantly. Alight thinks for a second and voila, you get your answer with context about what typically happens in your industry, in your market, with deals like this.
-
-If you're in tech in Pakistan, you'll see that 25-35% growth is possible but power outages are a risk.  
-If you're in retail in the UK, you'll learn that high street stores are dying and 3% growth is the norm.  
-If you're buying a healthcare business in the UAE, you'll hear that medical tourism is booming and expats pay well.
-
-A 20% return in the US is great. In Pakistan, it's just okay (25% is the target because of inflation and risk). Alight adjusts for your market.
-It learns from history. Alight will tell you if a similar deal crashed in your market. WeWork thought it was a tech company. Theranos couldn't deliver. Alight remembers so you don't have to.
+In less than 10 seconds, it tells you the real return, the multiple, adjusts the returns for local inflation rates and taxes, runs the good scenario, the okay scenario, the bad one, shows you where you break even, values businesses across six sectors the way a JP Morgan analyst would, tells you how similar financial moves have played out in your country in the past. It writes you an industry-standard investment memo exploring all these aspects, ready to send to a lender or an investment committee.
 
 It's wonderful.
 
@@ -42,19 +30,6 @@ It's wonderful.
 - Investors sizing up opportunities
 - Founders figuring out what their company is worth
 - Anyone tired of pretending they understand financial models
-
-If you've ever been in a meeting where someone said "let me run the numbers and get back to you," this is for you.
-
----
-
-
-## Try It
-
-**[pocketstar.lovable.app](https://pocketstar.lovable.app/)**
-
-Open it. Pick a calculator. Put in some numbers. See if it's useful.
-
-If it saves you one bad investment, it's already paid for itself.
 
 ---
 
